@@ -1,0 +1,4 @@
+rootProject.name='Remote Rendering'
+include ':remote-render-client'
+include ':remote-render-service'
+include ':remote-render-aidl'
